@@ -1,4 +1,4 @@
-commom phrases
+common phrases
 
 	I have a carrot
 	I have some bread
