@@ -27,4 +27,5 @@
 	eighty
 	ninety
 	hundred
+	thousand
 

@@ -3,6 +3,8 @@
 	Welcome,
 	Where are you from?
 	I'm from the UK, and I'm from America,  I'm from China.
+	nice to meet you, 
+	nice to meet you too,
 
 
 
@@ -17,7 +19,10 @@
 	Is he your father?
 	Yes, he is. No, he isn't.
 
-# Let children recognise animal body parts.
+# Let children recognize animal body parts.
+
+
+	
 
 
 	
