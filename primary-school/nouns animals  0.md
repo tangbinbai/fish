@@ -1,4 +1,4 @@
-# animals
+# animal nouns
 ## useful expressions about animals
 
 	Look, a panda!

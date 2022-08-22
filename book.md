@@ -8,38 +8,49 @@
 
     modern and well developed
 
-# animal components
+# nouns
 
-## useful expressions about animal components
+## Useful expressions about the nouns
 
-    Clap you hands
-    Touch your head
-    Wave your arms
-    Shake your legs
-    Stamp your foot 
+## Simple nouns
 
-## animal components vocabulary
+> clothing、pants、 sock、 cap、 t-shirt、vest\
+> rice、vegetable\
+> house、apartment\
+> car、plane、boat、ship、subway\
+> travel mountain river\
+> book pencil eraser
 
-    1. eye 
-    2. nose
-    3. mouth
-    4. face
-    5. neck
-    6. chest  
-    7. body
-    8. finger
-    9. arm
-    10. leg
-    11. footer 
-    12. shoulder -- one of the two parts of the body at each side of the neck
-    13. toes -- any of the five separate parts at the end of the foot
-    14. stamp -- verb(bring down (someone foot) heavily on the ground)  noun (a pattern for mark)
-    15. shake --  to move backward and frontward or up and down in quick, short movement
-    16. wave -- to raise your hand and move it from side to side as a way of greeting someone
-    17. clap  -- hitting your hands together
-    18. chest -- the upper front of the body
+### category
 
-# animals
+    A group of things has some features that are the same.
+
+### companion
+
+    A person you spend a lot of time with them. Usually, your friends or colleagues.
+
+### possession
+
+    The state of having, owning, or controlling something. It belongs to you.
+    e.g., the value of your possession is about $1 million
+
+## Proper Nouns vocabulary
+
+## Common Nouns vocabulary
+
+## Concrete Nouns vocabulary
+
+## Abstract Nouns vocabulary
+
+## Collective Nouns vocabulary
+
+## Compound Nouns vocabulary
+
+## Countable Nouns vocabulary
+
+## Uncountable Nouns vocabulary
+
+# animal nouns
 
 ## useful expressions about animals
 
@@ -87,7 +98,38 @@
 
     A small animal with four legs and a tail is usually kept as a pet or for catching mice.
 
-# countries
+# animal component nouns
+
+## useful expressions about animal components
+
+    Clap you hands
+    Touch your head
+    Wave your arms
+    Shake your legs
+    Stamp your foot 
+
+## animal components vocabulary
+
+    1. eye 
+    2. nose
+    3. mouth
+    4. face
+    5. neck
+    6. chest  
+    7. body
+    8. finger
+    9. arm
+    10. leg
+    11. footer 
+    12. shoulder -- one of the two parts of the body at each side of the neck
+    13. toes -- any of the five separate parts at the end of the foot
+    14. stamp -- verb(bring down (someone foot) heavily on the ground)  noun (a pattern for mark)
+    15. shake --  to move backward and frontward or up and down in quick, short movement
+    16. wave -- to raise your hand and move it from side to side as a way of greeting someone
+    17. clap  -- hitting your hands together
+    18. chest -- the upper front of the body
+
+# country nouns
 
 # useful expressions about the country
 
@@ -127,7 +169,9 @@
 
 ## France
 
-# Useful expressions about food
+# food nouns
+
+## Useful expressions about food
 
     I can make cake;
     I like to eat cake;
@@ -143,7 +187,7 @@
     Thanks.
     Come on, Lily, Have some milk.
 
-# foods vocabulary
+## foods vocabulary
 
 ## cake
 
@@ -165,7 +209,7 @@
 
     this white liquid produced by cows, goats, and sheep and used by humans as a drink or for marking butter, cheese, etc. 
 
-# months
+# month nouns
 
 ## Useful expressions about the month
 
@@ -184,49 +228,7 @@
     November
     December
 
-# nouns
-
-## Useful expressions about the nouns
-
-## Simple nouns
-
-> clothing、pants、 sock、 cap、 t-shirt、vest\
-> rice、vegetable\
-> house、apartment\
-> car、plane、boat、ship、subway\
-> travel mountain river\
-> book pencil eraser
-
-### category
-
-    A group of things has some features that are the same.
-
-### companion
-
-    A person you spend a lot of time with them. Usually, your friends or colleagues.
-
-### possession
-
-    The state of having, owning, or controlling something. It belongs to you.
-    e.g., the value of your possession is about $1 million
-
-## Proper Nouns vocabulary
-
-## Common Nouns vocabulary
-
-## Concrete Nouns vocabulary
-
-## Abstract Nouns vocabulary
-
-## Collective Nouns vocabulary
-
-## Compound Nouns vocabulary
-
-## Countable Nouns vocabulary
-
-## Uncountable Nouns vocabulary
-
-# numbers
+# number nouns
 
 ## Useful expressions about the numbers
 

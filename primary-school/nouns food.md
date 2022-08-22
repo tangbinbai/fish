@@ -1,4 +1,6 @@
-#  Useful expressions  about food
+# food nouns
+
+##  Useful expressions  about food
 	I can make cake;
 	I like to eat cake;
 	Have some juice?
@@ -13,7 +15,7 @@
 	Thanks.
 	Come on, Lily, Have some milk.
 	
-# foods vocabulary
+## foods vocabulary
 
 ## cake
 	a sweet food made with a mixture of flour, eggs, fat, and sugar;

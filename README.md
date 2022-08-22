@@ -8,6 +8,6 @@
 
 Use command:
 
-	pandoc ./grade-one/*.md -o book.pdf
-	pandoc ./grade-one/*.md -o book.md
-	pandoc ./grade-one/*.md -o book.html
+	pandoc ./primary-school/*.md -o book.pdf
+	pandoc ./primary-school/*.md -o book.md
+	pandoc ./primary-school/*.md -o book.html

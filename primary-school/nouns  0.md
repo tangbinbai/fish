@@ -1,4 +1,4 @@
-# nouns
+# nouns 
 
 ##   Useful expressions  about the nouns
 
@@ -11,15 +11,13 @@
 > travel mountain river  
 > book pencil eraser  
  
-
 ### category  
-	A group of things has some features that are the same.
+    A group of things has some features that are the same.
 ### companion
 	A person you spend a lot of time with them. Usually, your friends or colleagues.
 ###  possession
 	The state of having, owning, or controlling something. It belongs to you.
 	e.g., the value of your possession is about $1 million
-
 
 
 

@@ -1,4 +1,4 @@
-# animal components
+# animal component nouns
 
 ## useful expressions about animal components	
 	Clap you hands

@@ -1,4 +1,4 @@
-# numbers
+# number nouns
 
 ##  Useful expressions  about the numbers
 
