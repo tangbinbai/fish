@@ -1,4 +1,8 @@
-# number list
+# numbers
+
+##  Useful expressions  about the numbers
+
+##  Numbers vocabulary
 
 	one 
 	two 

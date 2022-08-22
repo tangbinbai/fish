@@ -1,4 +1,5 @@
-# common phrases about anima
+# animals
+## useful expressions about animals
 
 	Look, a panda!
 	What is that?
@@ -9,6 +10,8 @@
 	Look at the dog. It's on the log.
 	Look at the duck. It's on the truck.
 	Look at the beer. It's on the pear.
+
+## animals vocabulary
 
 ### Elephant 
 	A vast grey mammal with a long nose, with which it can pick things up.

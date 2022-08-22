@@ -1,4 +1,7 @@
-# month list
+# months
+##   Useful expressions  about the month
+
+# months vocabulary
 	January
 	February
 	March
