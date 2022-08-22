@@ -4,8 +4,7 @@
 	Where are you from?
 	I'm from the UK, and I'm from America,  I'm from China.
 	nice to meet you, 
-	nice to meet you too,
-
+	nice to meet you too
 
 
 # Introduce your family or friends

@@ -1,4 +1,4 @@
-# common phrases
+# common phrases about anima
 
 	Look, a panda!
 	What is that?
@@ -10,15 +10,19 @@
 	Look at the duck. It's on the truck.
 	Look at the beer. It's on the pear.
 
-
-# words
-
-1. elephant -- a very large grey mammal with a long nose, with which it can pick things up.
-2. panda -- a large, black and white mammal that lives in forests in china and likes to eat bamboo
-3. tiger -- a large wild animal of the cat family, with yellowish-orange fur, with black lines that live in parts of Asia
-4. lion --  a large wild animal of the cat family, with yellowish-brown fur, that lives in Africa and southern Asia
-5. duck -- a bird that lives by water and has web audio
-6. bear -- a large, strong wild mammal with a thick fur coat that lives especially in colder parts of  Europe, Asia, and North America.
-7. pig -- a large pink, black, brown farm animal with short legs and curved tail, kept its meat.
-8. cat 
-10. a small animal with four legs and a tail, usually kept  as a pet or for catching mice
+### Elephant 
+	A vast grey mammal with a long nose, with which it can pick things up.
+### Panda 
+	A large, black and white mammal that lives in forests in china and likes to eat bamboo
+###  tiger 
+	A large wild animal of the cat family, with yellowish-orange fur, with black lines that live in parts of Asia
+### Lion  
+	A large wild animal of the cat family, with yellowish-brown fur, that lives in Africa and southern Asia
+### duck 
+	A bird that lives by water and has web audio
+### bear 
+	A large, strong wild mammal with a thick fur coat that lives especially in colder parts of  Europe, Asia, and North America.
+### Pig 
+	A large pink, black, brown farm animal with short legs and a curved tail kept its meat.
+### cat 
+	A small animal with four legs and a tail is usually kept as a pet or for catching mice.
