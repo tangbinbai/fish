@@ -2,13 +2,14 @@
 
 ## common nouns
 	 clothing,pants,socks,cap,t-shirt,vest  
-	 rice, vegetable  
-	 house,apartment,desk,window
-	 car,plane,boat,ship,subway  
-	 travel, mountain,river  
-	 book,pencil,eraser,package,backpack  
+	 rice, vegetables,
+	 house, apartment, desk, window,
+	 car, plane, boat, ship, subway,
+	 travel, mountain, river, book, pencil, eraser, package, backpack, computer, schoolbag, chair, farmhouse, couple, restaurant, 
+	  
 
- 
+### couple
+	Two or a few things, there are similar or the same. A couple usually expresses two people who have married.
 ### category  
     A group of things has some features that are the same.
 ### companion

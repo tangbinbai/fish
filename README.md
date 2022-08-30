@@ -11,3 +11,7 @@ Use command:
 	pandoc ./primary-school/*.md -o book.pdf
 	pandoc ./primary-school/*.md -o book.md
 	pandoc ./primary-school/*.md -o book.html
+
+
+[wordtype](https://wordtype.org/)
+	
