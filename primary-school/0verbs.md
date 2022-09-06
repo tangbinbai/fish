@@ -1,6 +1,8 @@
 	Clean,  let, play, do, does, tap, clap, stamp, watch, saw, see, smell, eat, drink, fly, open, close, find, found, hit, earn, make, take, turn off, turn on, drive, speak, spoken, manage, finish, work, try, buy, bought, fishing, carry, catch, move, hit, put, read, listen, write, chant, form,
 
 
+### duplicate
+	make an exact copy of something 
 ### clean
 	Let me clean the window.
 ### form

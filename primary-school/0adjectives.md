@@ -6,6 +6,10 @@
 
 ## Adjectives vocabulary
 
+
+
+### duplicate
+	being an exact copy of something
 ###  advanced   
 	modern and well developed
 ### Adept
