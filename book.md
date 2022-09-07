@@ -1,5 +1,7 @@
 # Adjectives
 
+    New, old, high, higher, highest, external vs internal. 
+
 ## useful expressions about Adjectives
 
 ## Adjectives vocabulary
@@ -8,18 +10,73 @@
 
     modern and well developed
 
+### Adept
+
+    Having a natural ability to do something that needs skill. To Finish something used a short time. 
+
+### original
+
+    Existing since the beginning. or being the earliest form of something
+
+### plain
+
+    not decorated in any way, with nothing added.
+
+### decorative
+
+    made to look attractive
+
+
+    near, where
+
+### near
+
+    Not far away in the distance. e.g., Is there a restaurant here?
+
+## crucial
+
+    Extremely important or necessary
+
+### lost
+
+    Not knowing where it is and how to get to a place.
+    e.g., she got lost in the forest. 
+
+### informal
+
+    The informal style is a more friendly style.
+
+> a word is used to show a short sudden expression of emotion.
+
+    ow,
+
 # nouns
 
-## Useful expressions about the nouns
+## common nouns
 
-## Simple nouns
+     clothing: clothing,pants,socks,cap,t-shirt,vest  
+     food: rice, vegetables, salt, oil, water, potato, tomato, chili pepper, onion, 
+     housing: house, apartment, desk, window,
+     transportation: car, plane, boat, ship, subway,
+     travel, mountain, river, book, pencil, eraser, package, backpack, computer, schoolbag, chair, farmhouse, couple, restaurant, 
+    video, audio, music, mp3, mp4, Rmvb, AVI, podcast, vlog, movie
+    Companies: Alibaba, Tencent, 
+    Brand: Google, Facebook, Amazon, Nokia, Samsung, Nike, Adidas, Puma, Lining
+    other: English, Franch, storybook math book, Chinese book, English book, eraser, pencil, pencil box, toy, notebook
+    people: classmate, deskmate, teacher, home teacher, headmaster
+      
 
-> clothing、pants、 sock、 cap、 t-shirt、vest\
-> rice、vegetable\
-> house、apartment\
-> car、plane、boat、ship、subway\
-> travel mountain river\
-> book pencil eraser
+### origin
+
+    The beginning or cause of something, e.g., the origin of the universe.
+
+### expense
+
+    The use of money, time, or effort.
+
+### couple
+
+    Two or a few things, there are similar or the same. A couple usually expresses two people who have married.
 
 ### category
 
@@ -34,21 +91,153 @@
     The state of having, owning, or controlling something. It belongs to you.
     e.g., the value of your possession is about $1 million
 
-## Proper Nouns vocabulary
+## ROI
 
-## Common Nouns vocabulary
+    Abbreviation for return on investment.
 
-## Concrete Nouns vocabulary
+## HC
 
-## Abstract Nouns vocabulary
+    Abbreviation for headcount
 
-## Collective Nouns vocabulary
+## Proper Nouns
 
-## Compound Nouns vocabulary
+> a proper noun refers to a specific name for a particular person,
+> place, and thing. Such as a person name 'Jack', or a country name
+> 'America' or 'UK'. Which is always capitalised in English.
 
-## Countable Nouns vocabulary
+    Place: UK、America、China
+    Person: Steven、Sawyer、Bowen
+    Thing: 
 
-## Uncountable Nouns vocabulary
+## Concrete Nouns
+
+> a concrete noun refers to a physical object in the real world. Such as
+> a dog, a pencil box, and a package.
+
+## Common Nouns
+
+## Abstract Nouns
+
+## Collective Nouns
+
+## Compound Nouns
+
+## Countable Nouns
+
+## Uncountable Nouns
+
+# determiner
+
+  --------------------------------------------------------------------------
+  subject        object         possessive     possessive     reflexive
+  pronouns       pronouns       Adjectives     pronouns       pronounce
+  -------------- -------------- -------------- -------------- --------------
+  I              me             my             mine           myself
+
+  you            you            your           yours          youself
+
+  he             him            his            his            himself
+
+  she            her            her            hers           herself
+
+  they           them           their          theirs         themself
+
+  we             us             our            ours           ourself
+
+  it             it             its            not-used       itself
+  --------------------------------------------------------------------------
+
+## put away
+
+    To put in the designated place for storage.
+
+## put aside
+
+    Save money for future use.
+
+## put in
+
+    Interrupt a conversion or discussion. 
+    Throw something into a container
+
+## put out
+
+    The firefighter put out the blaze.
+
+## put across
+
+    to explain something clearly
+
+### be good at
+
+    my brother is good at basketball
+
+    in, on,
+
+### under
+
+    in or to a position below or lower than something else, often so that one thing covers the other. e.g, he hid(hide past simple) under the bed.  
+
+# pronouns
+
+> A word is used instead of a noun or a noun phrase.
+
+    me, mine
+
+
+    Clean,  let, play, do, does, tap, clap, stamp, watch, saw, see, smell, eat, drink, fly, open, close, find, found, hit, earn, make, take, turn off, turn on, drive, speak, spoken, manage, finish, work, try, buy, bought, fishing, carry, catch, move, hit, put, read, listen, write, chant, form, wear
+
+### clean
+
+    Let me clean the window.
+
+### form
+
+    Bring together parts or combine them to create something.
+    e.g., the company was formed in 1920.
+
+### spell
+
+    Form a word or words with the letters in the correct order.
+
+### talk
+
+    To say words aloud, or to speak to someone.
+
+### decorate
+
+    to add something to an object or a place, especially in order to make it more attractive.
+
+# animal component nouns
+
+## useful expressions about animal components
+
+    Clap you hands
+    Touch your head
+    Wave your arms
+    Shake your legs
+    Stamp your foot 
+
+## animal components vocabulary
+
+    1. eye 
+    2. nose
+    3. mouth
+    4. face
+    5. neck
+    6. chest  
+    7. body
+    8. finger
+    9. arm
+    10. leg
+    11. footer 
+    12. shoulder -- one of the two parts of the body at each side of the neck
+    13. toes -- any of the five separate parts at the end of the foot
+    14. stamp -- verb(bring down (someone foot) heavily on the ground)  noun (a pattern for mark)
+    15. shake --  to move backward and frontward or up and down in quick, short movement
+    16. wave -- to raise your hand and move it from side to side as a way of greeting someone
+    17. clap  -- hitting your hands together
+    18. chest -- the upper front of the body
 
 # animal nouns
 
@@ -98,36 +287,8 @@
 
     A small animal with four legs and a tail is usually kept as a pet or for catching mice.
 
-# animal component nouns
 
-## useful expressions about animal components
-
-    Clap you hands
-    Touch your head
-    Wave your arms
-    Shake your legs
-    Stamp your foot 
-
-## animal components vocabulary
-
-    1. eye 
-    2. nose
-    3. mouth
-    4. face
-    5. neck
-    6. chest  
-    7. body
-    8. finger
-    9. arm
-    10. leg
-    11. footer 
-    12. shoulder -- one of the two parts of the body at each side of the neck
-    13. toes -- any of the five separate parts at the end of the foot
-    14. stamp -- verb(bring down (someone foot) heavily on the ground)  noun (a pattern for mark)
-    15. shake --  to move backward and frontward or up and down in quick, short movement
-    16. wave -- to raise your hand and move it from side to side as a way of greeting someone
-    17. clap  -- hitting your hands together
-    18. chest -- the upper front of the body
+    red, orange, yellow, green, cyan, blue, purple, white, black, brown, 
 
 # country nouns
 
@@ -263,6 +424,35 @@
     hundred
     thousand
 
+## common expressions
+
+     In other words,
+    Would you date an old man, 
+    without money, 31,
+    with money, 57
+
+    Good night, sweet dreams.
+    No thanks, I'm full.
+    My schoolbag is so heavy. Can you help me to carry it?
+    Take out your English book. Ok.
+
+    It is tall, and it has a long neck. Oh, it is the giraffe.
+    It is thin and short, but it has two big eyes. 
+    She is short and has long hair; what is her name?
+    He is strong and has two big eyes; he is very cute.
+    He is my best friend; his name is wuyifan.
+    Wuyifan is wearing glasses.
+    I have a good friend; he is tall and strong, and he is good at basketball.
+
+     
+
+# Describe classroom
+
+    Look, this is my new classroom.
+    There have a blackboard and many desks and chairs.
+    Where is my picture?
+    It's near the window. 
+
 # first meeting and greeting
 
     Welcome,
@@ -270,6 +460,7 @@
     I'm from the UK, and I'm from America,  I'm from China.
     nice to meet you, 
     nice to meet you too
+    excuse me, miss white.
 
 # Introduce your family or friends
 
@@ -283,3 +474,13 @@
     Yes, he is. No, he isn't.
 
 # Let children recognize animal body parts.
+
+## Software
+
+    APIs expand the capabilities.
+    To get the most out of APIs.
+    Integrate with third-party APIs.
+    the potential value API offer.
+    Proactively Monitoring APIs can ensure that you’re able to find issues before real users experience them.
+    Not only to increase your ROI.
+    One of the main benefits of REST APIs is that they rely on the HTTP standard.

@@ -3,9 +3,23 @@
 	Would you date an old man, 
 	without money, 31,
 	with money, 57
+
+	Good night, sweet dreams.
+	No thanks, I'm full.
+	My schoolbag is so heavy. Can you help me to carry it?
+	Take out your English book. Ok.
+	
+	It is tall, and it has a long neck. Oh, it is the giraffe.
+	It is thin and short, but it has two big eyes. 
+	She is short and has long hair; what is her name?
+	He is strong and has two big eyes; he is very cute.
+	He is my best friend; his name is wuyifan.
+	Wuyifan is wearing glasses.
+	I have a good friend; he is tall and strong, and he is good at basketball.
+
 	 
 # Describe  classroom
-	Look, this is my new classroom
+	Look, this is my new classroom.
 	There have a blackboard and many desks and chairs.
 	Where is my picture?
 	It's near the window. 

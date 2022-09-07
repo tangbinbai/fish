@@ -25,11 +25,13 @@
 ###  possession
 	The state of having, owning, or controlling something. It belongs to you.
 	e.g., the value of your possession is about $1 million
-## ROI
+### ROI
 	Abbreviation for return on investment.
-## HC
+### HC
 	Abbreviation for headcount
-	
+### monitor
+	A machine or person to work for watching particular things or person.
+
 
 
 ## Proper Nouns 
