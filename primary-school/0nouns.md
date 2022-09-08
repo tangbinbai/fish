@@ -2,7 +2,7 @@
 
 ## common nouns
 	 clothing: clothing,pants,socks,cap,t-shirt,vest  
-	 food: rice, vegetables, salt, oil, water, potato, tomato, chili pepper, onion, 
+	 food: rice, vegetables, salt, oil, water, potato, tomato, chili pepper, onion, coke, cookie
 	 housing: house, apartment, desk, window,
 	 transportation: car, plane, boat, ship, subway,
 	 travel, mountain, river, book, pencil, eraser, package, backpack, computer, schoolbag, chair, farmhouse, couple, restaurant, 
@@ -31,7 +31,8 @@
 	Abbreviation for headcount
 ### monitor
 	A machine or person to work for watching particular things or person.
-
+### note
+	a brief record of something written down to assist the memory or for future
 
 
 ## Proper Nouns 
