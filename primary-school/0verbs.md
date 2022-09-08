@@ -19,3 +19,5 @@
 	Make it faster, e.g. I accelerated to overtake the car.
 ### takeover
 	Catch up with and pass while travelling in the same direction.
+### convert
+	to change someting into a different form or protperties;
