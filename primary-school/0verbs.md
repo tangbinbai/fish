@@ -20,4 +20,10 @@
 ### takeover
 	Catch up with and pass while travelling in the same direction.
 ### convert
-	to change someting into a different form or protperties;
+	to change something into a different form or properties;
+### utilize
+	Use with object
+	e.g. to utilize a stream to generate electricity.
+### analysis
+	the act of studying or examining something in detail, in order to discover or understand more about it.
+	

@@ -16,9 +16,9 @@
 ### Adept
 	Having a natural ability to do something that needs skill. To Finish something used a short time. 
 ### original
-	Existing since the beginning. or being the earliest form of something
+	Existing since the beginning. Or being the earliest form of something.
 ### plain
-	not decorated in any way, with nothing added.
+	Not decorated in any way, with nothing added.
 ### decorative
 	made to look attractive
 ### lost
@@ -26,6 +26,11 @@
 	e.g., lost friends.
 	e.g., lost articles.
 ### quiet
-	Making no noise or sound. Especially no disturbing sound.
+	It was making no noise or sound. Especially no disturbing sound.
 	e.g., he is a quiet boy.
+### electric
+	new energy, electric car
+### essential 
+	Gasoline or electricity is essential for the car.
+
 

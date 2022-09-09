@@ -35,11 +35,20 @@
 ### note
 a brief record of something written down to assist the memory or for future
 ### capital
-	the most important city or town of a country or region.
+	The most important city or town of a country or region.
 ### conversion
-	the processing of converting something from one thing to another.
+	The processing of converting something from one thing to another.
 ### chimney
-	a vertical channel or pipe which conducts smoke gases up from a fire or
+	A vertical channel or pipe which conducts smoke gases up from a fire or
+### utility
+	a public service, common for water, gas, electricity
+	a command line utility
+### electricity
+	electric charge
+### traffic
+	e.g., the road traffic, air traffic, network traffic 
+### career
+	A job or series of jobs that you do during wiking your life.
 
 
 ## Proper Nouns 

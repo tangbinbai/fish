@@ -16,3 +16,9 @@
 	A famous person on the internet.
 ### Catch up with (someone)
 	Catch up with my level.
+### At times
+	Sometimes.
+	e.g. he is at times cruel and ruthless
+### in detail
+	more information about something.
+	e.g. studying something in detail
