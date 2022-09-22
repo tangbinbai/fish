@@ -49,7 +49,8 @@ a brief record of something written down to assist the memory or for future
 	e.g., the road traffic, air traffic, network traffic 
 ### career
 	A job or series of jobs that you do during wiking your life.
-
+## synonym
+	a word or phrase that has the same meaing as another words or phrase.
 
 ## Proper Nouns 
 > a proper noun refers to a specific name for a particular person, place, and thing. Such as a person name 'Jack', or a country name 'America' or 'UK'. Which is always capitalised in English.
@@ -58,7 +59,19 @@ a brief record of something written down to assist the memory or for future
 	Place: UK、America、China
 	Person: Steven、Sawyer、Bowen
 	Thing: 
+## major
+	this major subject is history and maths
+	he majored in physics at university.
+### minor
+	this is a minor problem in maths.
 
+### district
+	shopping district. postal district.
+### area
+	I find the people in this are very friendly
+### region
+	
+	
 
 ## Concrete Nouns 
 > a concrete noun refers to a physical object in the real world. Such as a dog, a pencil box, and a package.
