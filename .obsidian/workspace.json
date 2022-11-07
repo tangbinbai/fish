@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "68a2b82d257adf9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "363a20bbc9595324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e03d1e1ab88d83aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "813d51282f2433e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "edf40c4ca2482492",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c031e95d640b28fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "614cc8f675ba39e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "carrot",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d337617b07f2077",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4a8fff5925c0c6cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f345ce5090f78129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4423fc1a7d9e04d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6969ec750713aadb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45616eebb3ca01d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b1161608e8099b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e03d1e1ab88d83aa",
+  "lastOpenFiles": [
+    "university/Journey to the west.md",
+    "university/English practice.md",
+    "university/Christmas Eve Dinner.md",
+    "university/My Law School Life.md",
+    "book.md",
+    "README.md",
+    "sentence testing.md",
+    "primary-school/0adjectives.md",
+    "primary-school/useful expressions.md",
+    "primary-school/0nouns.md"
+  ]
+}
